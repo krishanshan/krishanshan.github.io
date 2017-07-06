@@ -14,8 +14,7 @@ Secondly, now I learn English by myself to use online-resources such as youtube,
 
 The major subject is to share online-learning materials and record my learning English dairy in blog.
 
-Second, it is really fun to learn English that you will find out more interesting things you've never knew. Therefore, I want to share you my experience.Although there are many self-learning materials we can take, we have no time to understand whether the material is useful for ourselves. For solving this problem, I decide to write down the materials what to learn, where to get, how to use.
-
+Second, it is really fun to learn English that you will find out more interesting things you've never knew. Therefore, I want to share my experience.Although there are many self-learning materials we can take easily, we have no time to understand whether the material is useful for ourselves. For solving this problem, I decide to write down the materials what to learn, where to get, how to use.
 
 ### What do I want to be...
 
