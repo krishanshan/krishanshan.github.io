@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## hello, world
 
-You can use the [editor on GitHub](https://github.com/krishanshan/krishanshan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, welcome to Yen-Shan's BLOG
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why do I start a blog?
 
-### Markdown
+Frist of all, my propose is to write down my life that I can't stike a balance to get somthing I want to do.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Secondly, now I learn English by myself to use online-resources such as youtube, Coursera, OCW(Open Course Ware) etc. and I'd like to share to you my experience how I use the resouces to improve my language skill .
 
-```markdown
-Syntax highlighted code block
+第3個理由是生存於網路至上的年代，用github創博客是ㄧ種文青的展現，我相信非正宗碼農/程式猿/工程獅也能打打簡單的指令進行。
 
-# Header 1
-## Header 2
-### Header 3
+### What do I write an article?
 
-- Bulleted
-- List
+The major subject is to share online-learning materials and record my learning English dairy in blog.
 
-1. Numbered
-2. List
+Second, it is really fun to learn English that you will find out more interesting things you've never knew. Therefore, I want to share you my experience.Although there are many self-learning materials we can take, we have no time to understand whether the material is useful for ourselves. For solving this problem, I decide to write down the materials what to learn, where to get, how to use.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### What do I want to be...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I wish I can use English fluently to create more opportunities such as to get better job, to meet foreign friends, to explore different culture etc.. 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishanshan/krishanshan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 寫博客的理由，未完待續
